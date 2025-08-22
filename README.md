@@ -25,7 +25,7 @@ We experimented with lightweight CNN architectures suitable for agricultural use
 | Groundnut  | MobileNetV2    | Consistent results with small datasets |  
 
 <p align="center">
-  <img src="images/architecture.png" width="500"/>  
+  <img src="images/architecture1.png" width="500"/>  
 </p>  
 
 ---
