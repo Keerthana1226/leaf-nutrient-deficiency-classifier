@@ -81,7 +81,7 @@ We developed a simple **Streamlit app** for user interaction:
 </p>  
 
 <p align="center">
-  <img src="images/rice_potassium_def.png" width="600"/>  
+  <img src="images/Rice_potassium_def.png" width="600"/>  
 </p>  
 
 ---
